@@ -1,0 +1,30 @@
+
+
+
+
+yum安装器
+
+
+命令	解析
+yum -y install [package]	下载并安装一个rpm包
+yum localinstall [package.rpm]	安装一个rpm包，使用你自己的软件仓库解决所有依赖关系
+yum -y update	更新当前系统中安装的所有rpm包
+yum update [package]	更新一个rpm包
+yum remove [package]	删除一个rpm包
+yum list	列出当前系统中安装的所有包
+yum search [package]	在rpm仓库中搜寻软件包
+yum clean [package]	清除缓存目录（/var/cache/yum）下的软件包
+yum clean headers	删除所有头文件
+yum clean all	删除所有缓存的包和头文件
+
+
+
+网络相关
+命令	解析
+ifconfig eth0	显示一个以太网卡的配置
+ifconfig eth0 192.168.1.1 netmask 255.255.255.0	配置网卡的IP地址
+ifdown eth0	禁用 ‘eth0’ 网络设备
+ifup eth0	启用 ‘eth0’ 网络设备
+iwconfig eth1	显示一个无线网卡的配置
+iwlist scan	显示无线网络
+ip addr show	显示网卡的IP地址
