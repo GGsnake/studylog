@@ -10,3 +10,6 @@ https://xueqiu.com/7505643009/86105973?from=timeline
 
 数据交易网站（爬虫系统数据变现人民币）
 http://qtjiaoyi.com/
+
+极客学院wiki
+http://wiki.jikexueyuan.com/list/redis/
