@@ -1,4 +1,27 @@
 
+6.关闭防火墙
+1）使用下列指令关闭防火墙
+# systemctl stop firewalld     （关闭防火墙）
+# systemctl disable firewalld  （禁止开机启动）
+2）查看firewalld 状态
+# firewall-cmd --state
+not running
+
+
+
+
+7.禁用SElinux
+1）修改/etc/selinux/config配置文件
+# sed -i "s/SELINUX=enforcing/SELINUX=disabled/g" /etc/selinux/config
+2）确认是否修改成功
+# cat /etc/selinux/config |grep -v ^# |grep -v ^$
+SELINUX=disabled
+SELINUXTYPE=targeted 
+3）重启系统
+# reboot
+4）重启后，查看SELinux状态
+# sestatus
+SELinux status:                 disabled
 
 
 
