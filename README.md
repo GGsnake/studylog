@@ -13,3 +13,7 @@ http://qtjiaoyi.com/
 
 极客学院wiki
 http://wiki.jikexueyuan.com/list/redis/
+
+
+程序猿轻松学单词 
+http://htmlpreview.github.io/?https://raw.githubusercontent.com/Georgewgf/reciteWords/master/index.html
