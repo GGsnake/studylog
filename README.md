@@ -17,3 +17,12 @@ http://wiki.jikexueyuan.com/list/redis/
 
 程序猿轻松学单词 
 http://htmlpreview.github.io/?https://raw.githubusercontent.com/Georgewgf/reciteWords/master/index.html
+
+
+
+shell学习
+http://wiki.jikexueyuan.com/project/linux-command/chap05.html
+
+
+python描述算法
+https://www.bilibili.com/video/av20777855
