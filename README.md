@@ -26,3 +26,6 @@ http://wiki.jikexueyuan.com/project/linux-command/chap05.html
 
 python描述算法
 https://www.bilibili.com/video/av20777855
+
+
+https://wenku.baidu.com/view/cf253fe029ea81c758f5f61fb7360b4c2e3f2a87.html
