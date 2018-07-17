@@ -21,3 +21,9 @@ https://blog.csdn.net/sinat_27564919/article/details/70946319
 https://blog.csdn.net/u013467442/article/details/51019691
 
 http://www.runoob.com/mysql/mysql-index.html
+
+
+https://www.cnblogs.com/fanwencong/p/5774117.html      //2000线程并发下同时查询1000万条数据库表及索引优化
+
+
+https://kb.cnblogs.com/page/601061/   //断点单步跟踪是一种低效的调试方法
